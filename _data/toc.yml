@@ -14,6 +14,7 @@
   - title: What is the fastest possible volleyball serve?
     url: essays/exampleessays/volleyball/Volleyball
 
+- divider: true
 - title: Student Essays
   url: /index
   not_numbered: true
