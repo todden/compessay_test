@@ -34,7 +34,7 @@
 
 - divider: true
 - title: Student Essays
-  url: /index
+  url: /studentessays
   not_numbered: true
   expand_sections: true
   sections:
@@ -51,7 +51,7 @@
 
 - divider: true
 - title: Exercise Sets and Templates
-  url: /index
+  url: /exercisesets
   not_numbered: true
   expand_sections: true
   sections:
