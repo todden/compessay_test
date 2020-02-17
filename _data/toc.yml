@@ -17,37 +17,37 @@
 # - header: My Header  # Will insert a header with no link in the sidebar
 
 - title: Example Essays
-  url: /index/essays/exampleessays
+  url: /index
   not_numbered: true
   expand_sections: true
   sections:
   - title: How much electric current would you need to use a railgun to launch a package up to the ISS?
-    url: /railgun_TOO/Railgun_V1_9
+    url: /essays/exampleessays/railgun_TOO/Railgun_V1_9
   - title: How would ion drives compare to conventional rockets on a trip to Mars?
-    url: /iondrives/ExploringTheMartian_V2_5
+    url: /essays/exampleessays/iondrives/ExploringTheMartian_V2_5
   - title: How long would it take to fall through a non-uniform Earth?
-    url: /earthtunnel/FallingThroughTheEarth-Narrative
+    url: /essays/exampleessays/earthtunnel/FallingThroughTheEarth-Narrative
   - title: How long would it take to fall into Space?
-    url: /intoSpace/FallingIntoSpace
+    url: /essays/exampleessays/intoSpace/FallingIntoSpace
   - title: What is the fastest possible volleyball serve?
-    url: /volleyball/Volleyball
+    url: /essays/exampleessays/volleyball/Volleyball
 
 - divider: true
 - title: Student Essays
-  url: /index/essays/studentessays
+  url: /index
   not_numbered: true
   expand_sections: true
   sections:
   - title: What is the best material for a lightning rod?
-    url: /stormcloud/2D_Stormcloud_Lightning-sisandst_jrevense
+    url: /essays/studentessays/stormcloud/2D_Stormcloud_Lightning-sisandst_jrevense
   - title: What are the effects of relativity on particles in the LHC?
-    url: /LHC/LHC_CompEssay
+    url: /essays/studentessays/LHC/LHC_CompEssay
   - title: Can we trap a high-energy particle in a magnetic bottle?
-    url: /magnetic_bottle_MBP_KG/MagneticBottle_Trap_ComputationalEssay
+    url: /essays/studentessays/magnetic_bottle_MBP_KG/MagneticBottle_Trap_ComputationalEssay
   - title: Kan vi bruke en railgun til å akselerere et tog i Oslo t-banen?
-    url: /railgun_FG_IK/Train_Railgun_CompEssay
+    url: /essays/studentessays/railgun_FG_IK/Train_Railgun_CompEssay
   - title: Hvor langt kan du trygt stå borte fra et lynnedslag?
-    url: /stormcloud_LS/3D_StormCloud_lassst_FYS1120_H18
+    url: /essays/studentessays/stormcloud_LS/3D_StormCloud_lassst_FYS1120_H18
 
 - divider: true
 - title: Exercise Sets and Templates
